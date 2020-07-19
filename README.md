@@ -2,7 +2,7 @@
 
 Terminal Linux emulator for eindows<br>
 
-## The Terminal command
+## The Terminal commands
  * ls
  * mkdir
  * rmdir
@@ -12,6 +12,6 @@ Terminal Linux emulator for eindows<br>
  * cd
 
 ### Description
-
-  ** ls output the list of nane files and extensions
-
+```
+ls -> output the list of nane files and extensions
+```
