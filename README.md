@@ -1,6 +1,6 @@
 # FileManagerLinuxEmulatorForWindows
 
-Terminal Linux emulator. <br>
+Terminal Linux emulator for eindows<br>
 
-## The Terminal commans
-..* ls
+## The Terminal command
+ --* ls
