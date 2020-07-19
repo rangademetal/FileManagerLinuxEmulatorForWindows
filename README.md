@@ -1,5 +1,5 @@
 # FileManagerLinuxEmulatorForWindows
 
 Terminal Linux emulator. <br>
-The functions list:
+**The functions list:**
 ..* ls
