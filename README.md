@@ -1,4 +1,4 @@
-# FileManagerLinuxEmulatorForWindows
+# Linux Simulator
 
 Terminal Linux emulator
 
@@ -10,6 +10,8 @@ Terminal Linux emulator
  * pwd
  * cd..
  * cd
+ * touch
+ * clear
 
 ### Description
 ```
