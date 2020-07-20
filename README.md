@@ -2,6 +2,11 @@
 
 Terminal Linux emulator
 
+## How to install
+
+clone **https://github.com/rangademetal/LinuxTerminalSimulator**
+
+
 ## The Terminal commands
  * ls
  * mkdir
